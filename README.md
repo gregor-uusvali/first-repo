@@ -1,20 +1,5 @@
-# first-repo
+# Git is harder than i thought
 
-## Notes notes noteS
+Im using a course to learn everyday git
 
-### changing the readme
-
-you should always update your readme file if you make changes 
-
-+------+.
-|`.    | `.
-|  `+--+---+
-|   |  |   |   <---  whats in the box??
-+---+--+.  |
- `. |    `.|
-   `+------+ 
-
-## Some new stuff in the readme
-texttexttexttexttexttext
-texttexttexttexttexttext
-texttexttexttexttexttext
+Course from skillShare by Kalob Tauline <--- <3
