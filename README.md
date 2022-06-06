@@ -15,6 +15,4 @@ you should always update your readme file if you make changes
    `+------+ 
 
 ## Some new stuff in the readme
-texttexttexttexttexttext
-texttexttexttexttexttext
-texttexttexttexttexttext
+(main branch)
